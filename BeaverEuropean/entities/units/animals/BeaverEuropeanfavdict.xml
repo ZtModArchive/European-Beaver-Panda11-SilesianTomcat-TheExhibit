@@ -1,0 +1,7 @@
+<BFParticleDictionary>
+   <beavereuropeanEmote>
+      <Conditions>
+         <BFParticleDefinition xmlFile="entities\units\animals\BeaverEuropean\BeaverEuropeanEmote.xml" removeTime="10.0"/>
+      </Conditions>
+   </beavereuropeanEmote>
+</BFParticleDictionary>

@@ -1,0 +1,118 @@
+<ZT2Strings>
+      <entityname>
+      <!--animal names-->
+      <BeaverEuropean>European Beaver</BeaverEuropean>
+      <BeaverEuropean_stt>European beaver</BeaverEuropean_stt>
+      <BeaverEuropean_lower>the european beaver</BeaverEuropean_lower>
+      <BeaverEuropean_ltt>
+         <color r="255" g="248" b="178">
+            <b>European Beaver</b>
+         </color>
+         <br/>
+         Click to select and then place a European Beaver, a species of beaver from Europe also known as Eurasian Beaver
+      </BeaverEuropean_ltt>
+   </entityname>
+        <zoopedia_beavereuropean>
+      <entry>Beaver, European</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                  <img src="entities/units/animals/BeaverEuropean/BeaverEuropean_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+               </cell>
+               <cell width="16">
+                  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+               </cell>
+               <cell width="16">
+                  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+               </cell>
+               <cell width="156"/>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Temperate Forest<br/></color>
+                  <img src="ui/icon_biomes/icon_temperateforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Europe<br/></color>
+                  <img src="ui/icon_maplocations/Temperateforest_Europe.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284">
+                  <color r="255" g="255" b="255">Class: Mammals <i>(Mammalia)</i><br/>Order: Rodentia
+ <i>(Rodentia
+)</i><br/>Family: Castoridae <i>(Castoridae)</i><br/>Genus: <i>Castor
+</i><br/>Species:<i>fiber</i><br/>Conservation Status: <color r="255" g="204" b="51">Endangered</color></color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/temperateforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun European Beaver Facts</font>
+               </color>
+            </cell>
+            <p/> 
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">The European beaver has very prominent incisors. It has a thick coat of fuzzy and straight hair that ranges from a rich glossy brown to a yellowish brown on the upperparts, and from brown to tawny on the underparts. 
+</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">They are endangered because of poaching and deforestation.</color>
+               </cell>
+<br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">They build lodges out of branches, mud, and leaves for shelter.</color>
+               </cell>
+<br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Beavers must chew on tree bark to keep their teeth from getting too long.</color>
+               </cell>
+<br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">This is my first Zoo Tycoon 2 animal created. Hope you enjoy it!</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">To unlock the European beaver in challenge or campaign games, you must earn a 3-1/2-star zoo fame rating for your zoo.</color>
+<p/>Castor fiber has a body length of 2.6 to 3.6 ft and a tail length of 12 to 13.6 in, making it one of the world's largest rodents. Its shoulder height is 12 to 14 inches and it weighs 37 to 70 lbs. The European beaver has very little sexual dimorphism; the average male weighs about 54 lbs and is 3 ft long, while the average female weighs 58 lbs and is 3.2 ft long. Beavers have stocky bodies with flattened hairless tails known as scoops. They have swimming membranes between their toes and can use both forelegs like hands. The European beaver has very prominent incisors. It has a thick coat of fuzzy and straight hair that ranges from a rich glossy brown to a yellowish brown on the upperparts, and from brown to tawny on the underparts. Its small eyes have nictitating membranes and its ears and nostrils are valvular.<p/>The average gestation period of the European beaver is 105 days. Beavers have a single annual breeding season. Mating occurs in January and February and births occur between April and June. The estrous cycle of the female lasts 2 weeks and the female is receptive for 10 to 12 hours. The litter size is from 1 to 5 and the average number of babies is 3. The average birth weight is 1 lb. Weaning occurs after 3 months, but independent minor food intake by babies can occur after just 2 weeks. The babies stay in the lodge for the first week or two and the mother must force them to go into the water for the first time. The young often have a hard time adjusting to the change from their mother's milk to eating bark and many do not survive this period. If they do survive, they encounter few natural threats for the remainder of their lives. Castor fiber reaches sexual maturity in 2.5 to 3 years. The life span of the European beaver is about 10 years in the wild, but they may live up to 17 years of age. In captivity beavers have reached 35 years of age.<p/>Beavers are social animals and live in family groups of 5 to 8 animals. The group consists of an older couple that owns the territory and the litter from the current year and the previous years. Beavers are monogamous and the female is dominant. The territory of a family group is from .2 to 1.8 miles along a river bank or shoreline. The beavers rarely go more than 64 feet from the water. Their territories are usually permanent. The European beaver marks its territory by making scent mounds that are 30 cm high and 1 m across. The mounds are made of mud and sticks and branches. The beavers have 2 anal glands that secrete a castoreum oil. This oil has a musk odor and is deposited on the scent mounds. The oil is also used to grease the beaver's fur coat to make it water repellent. The beaver also has specialized cleaning claws on the second toe of its hind legs that are used for brushing the coat. Beavers may migrate during the fall in order to find food. They are unable to reach buds and branches high in trees, so they cut the trees down by gnawing at the trunk. When gnawing, a beaver stands upright supported by its tail. The gnawing process gives a tree trunk the well known hourglass shape. Beavers are generally nocturnal and may cut down a tree that is 16 inches in diameter in one night.<p/>European beavers build "lodges" made of sand and clay. These lodges are usually a simple tube in the river bank that feeds into the water below the surface. If the river bank is not high enough to build a lodge, then the beaver builds a castle on the river bank. This castle is made by piling up branches and twigs and fastening them with mud. In order to keep the entrance to the lodge underwater, beavers keep the water level up by building dams. These famous waterlevel-regulating dams are built by driving thick sticks into the mud and filling the spaces with branches and mud. They can be anywhere from 16 to 96 feet in length. These dams create a good environment for many living things, including the particular trees that beavers eat.Beavers love to dive and swim and are well adapted for these activities. Their thick water-repellant coat keeps them dry and warm while their webbed feet and flat tail are ideal for swimming. A beaver usually stays underwater for two to three minutes but can dive for as long as fifteen minutes.European beavers communicate with each other using scent, posture, tail slaps, and several calls that sound like whistling and whining. The tail slap is used to warn others of danger. The beaver just slaps its tail against the water while it is diving to make the call.<p/>The European beaver is strictly herbivorous. Its diet consists of hundreds of species of water and river bank plants such as tubers and the rootstocks of myrtles, cattails, and water lilies. Beavers also eat trees. They prefer aspen trees but also eat hazels, black poplars, lime trees, and other softwood barks. Alder and oak trees are never eaten and used only for constructional purposes. The large teeth and strong bite assist the beaver in biting and chewing its food. Long appendices help beavers to digest their high cellulose bark diets. Their food intake per day is about twenty percent of their body weight. Microorganisms break up the nutritional mush of bark that the beaver swallows and build up bacterial proteins that the beaver can digest. A beaver eats only a few species of trees, and if its diet changes it must make a gradual change so that the microorganisms can adjust to the new diet
+
+
+
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Content provided courtesy of ZooD<u><color r="255" g="231" b="135">Animal created by panda11 and recolored by The Exibit and Silisien Tomcat.</color></u>
+         </cell>
+      </text>
+   </zoopedia_beavereuropean>
+</ZT2Strings>
